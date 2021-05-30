@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UtkarshTiwari123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Utkarsh Tiwari
+- 👀 I’m currently student of BITS Pilani, Hyderabad Capmus pursuing Msc. Biology and B.E.Computer Science ...
+- 🌱 I’m currently learning React,Python, Django framework
+- 💞️ I’m looking to collaborate on AI,ML
 - 📫 How to reach me utkarsh.samar@gmail.com
 
 <!---
